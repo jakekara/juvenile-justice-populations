@@ -1,0 +1,71 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Race/Ethnicity by State, 2010"
+
+
+"State of Offense","Total","White","Black","Hispanic","American Indian","Asian","Other"
+"United States","70,793","22,947","28,977","15,590","1,236","728","1,315",
+"Alabama","1,101","420","648","24","0","0","9",
+"Alaska","282","111","27","0","111","12","21",
+"Arizona","1,092","366","126","498","96","6","0",
+"Arkansas","729","309","339","66","3","3","6",
+"California","11,532","1,515","2,952","6,684","51","291","39",
+"Colorado","1,530","675","342","453","27","12","21",
+"Connecticut","315","60","150","90","3","0","12",
+"Delaware","252","48","183","18","0","0","3",
+"District of Columbia","180","9","159","12","0","0","0",
+"Florida","4,815","1,827","2,568","375","3","24","15",
+"Georgia","2,133","369","1,602","126","0","6","30",
+"Hawaii","120","12","3","27","0","30","51",
+"Idaho","480","357","6","90","21","3","3",
+"Illinois","2,217","741","1,092","309","18","9","48",
+"Indiana","2,010","1,173","645","99","3","6","84",
+"Iowa","738","456","144","75","21","6","36",
+"Kansas","843","402","270","147","9","3","9",
+"Kentucky","852","522","270","30","0","0","30",
+"Louisiana","1,035","228","792","6","0","0","9",
+"Maine","186","159","15","6","3","0","0",
+"Maryland","888","147","690","45","0","3","3",
+"Massachusetts","663","225","198","210","0","12","18",
+"Michigan","1,998","726","1,086","90","21","6","69",
+"Minnesota","912","381","306","60","108","30","30",
+"Mississippi","357","66","288","3","0","0","0",
+"Missouri","1,197","609","504","45","3","3","30",
+"Montana","192","111","6","9","60","0","3",
+"Nebraska","750","330","234","114","30","9","33",
+"Nevada","717","198","222","249","18","18","12",
+"New Hampshire","117","93","9","12","0","3","3",
+"New Jersey","1,179","141","810","219","0","3","9",
+"New Mexico","576","105","33","378","48","3","9",
+"New York","2,637","606","1,383","528","6","15","102",
+"North Carolina","849","267","486","54","12","3","27",
+"North Dakota","168","99","6","0","57","0","6",
+"Ohio","2,865","1,254","1,449","57","3","6","99",
+"Oklahoma","639","228","243","69","87","3","6",
+"Oregon","1,251","768","150","264","39","15","15",
+"Pennsylvania","4,134","1,083","2,463","429","3","33","126",
+"Rhode Island","249","90","84","54","0","12","9",
+"South Carolina","984","312","639","18","3","0","15",
+"South Dakota","504","219","42","36","192","3","9",
+"Tennessee","789","309","429","27","3","6","18",
+"Texas","5,352","1,182","1,788","2,352","9","15","6",
+"Utah","684","429","39","174","24","15","3",
+"Vermont","33","18","0","12","0","0","0",
+"Virginia","1,860","567","1,137","99","0","6","48",
+"Washington","1,305","657","252","243","66","36","54",
+"West Virginia","561","417","99","15","0","3","27",
+"Wisconsin","1,110","450","549","48","24","27","15",
+"Wyoming","255","192","9","42","12","0","3",
+"Not Reported","2,567","913","1,012","507","42","24","69",
+
+"Note: The information in this table is based on the state where the offense was committed. However, the state of offense is not always reported. Youth for whom state of offense was unknown are included in U.S. totals. These instances are not evenly distributed across states. As such, users should exercise caution when examining state-level trends or comparing states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information."
+
+"Note: U.S. total excludes youth in tribal facilities."
+
+"Note: To preserve the privacy of the juvenile residents, state level cell counts have been rounded to the nearest multiple of three."
+
+"Note: The "Hispanic" category includes persons of Latin American or other Spanish culture or origin regardless of race.  These persons are not included in the other race/ethnicity categories."
+
+"Suggested citation: Sickmund, M., Sladky, T.J., Kang, W., and Puzzanchera, C. (2017) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, and 2015 [machine-readable data files]."

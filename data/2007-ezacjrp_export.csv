@@ -1,0 +1,71 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Race/Ethnicity by State, 2007"
+
+
+"State of Offense","Total","White","Black","Hispanic","American Indian","Asian","Other"
+"United States","86,814","29,534","35,447","18,056","1,464","1,035","1,278",
+"Alabama","1,650","642","972","27","3","0","3",
+"Alaska","321","123","36","3","120","15","27",
+"Arizona","1,485","567","228","570","105","6","9",
+"Arkansas","810","372","336","78","9","6","9",
+"California","14,034","2,088","3,759","7,644","87","384","72",
+"Colorado","1,752","717","447","528","27","15","12",
+"Connecticut","426","114","180","114","3","3","15",
+"Delaware","369","90","246","27","0","0","3",
+"District of Columbia","288","3","279","6","0","0","0",
+"Florida","5,733","2,355","3,018","306","12","27","18",
+"Georgia","2,736","552","1,956","177","3","3","42",
+"Hawaii","129","15","0","9","0","87","21",
+"Idaho","528","375","24","93","36","0","0",
+"Illinois","2,565","849","1,128","465","39","33","51",
+"Indiana","2,727","1,692","816","162","3","0","54",
+"Iowa","954","630","186","75","15","12","33",
+"Kansas","1,146","585","321","186","24","21","9",
+"Kentucky","1,116","696","372","21","0","0","27",
+"Louisiana","1,350","324","1,005","9","6","3","3",
+"Maine","204","141","36","15","0","0","9",
+"Maryland","930","213","660","39","3","9","6",
+"Massachusetts","969","321","318","285","3","30","12",
+"Michigan","2,748","1,074","1,452","96","24","6","99",
+"Minnesota","1,317","552","453","90","156","39","24",
+"Mississippi","450","114","288","33","6","6","3",
+"Missouri","1,227","600","540","36","0","9","39",
+"Montana","210","108","36","18","39","0","9",
+"Nebraska","708","309","237","117","33","3","6",
+"Nevada","996","351","324","273","18","18","12",
+"New Hampshire","156","117","15","21","3","3","0",
+"New Jersey","1,677","210","1,113","327","0","12","15",
+"New Mexico","378","72","42","234","24","0","3",
+"New York","3,612","1,056","1,668","735","33","30","87",
+"North Carolina","1,035","324","597","60","12","6","36",
+"North Dakota","213","111","18","12","69","3","0",
+"Ohio","4,332","1,848","2,220","117","9","3","138",
+"Oklahoma","864","372","318","75","78","15","9",
+"Oregon","1,299","882","120","213","57","18","6",
+"Pennsylvania","4,554","1,323","2,670","438","3","21","99",
+"Rhode Island","312","144","102","54","0","3","9",
+"South Carolina","1,200","438","567","171","15","6","6",
+"South Dakota","456","177","69","30","168","6","6",
+"Tennessee","1,263","561","621","51","0","6","24",
+"Texas","7,035","1,497","2,535","2,955","12","27","9",
+"Utah","867","534","87","192","39","9","9",
+"Vermont","45","42","0","0","0","0","0",
+"Virginia","2,124","594","1,314","150","6","18","45",
+"Washington","1,527","795","252","306","78","45","48",
+"West Virginia","570","423","93","30","0","3","21",
+"Wisconsin","1,422","627","609","69","42","45","30",
+"Wyoming","249","159","33","36","15","0","6",
+"Not Reported","1,748","648","728","281","26","20","45",
+
+"Note: The information in this table is based on the state where the offense was committed. However, the state of offense is not always reported. Youth for whom state of offense was unknown are included in U.S. totals. These instances are not evenly distributed across states. As such, users should exercise caution when examining state-level trends or comparing states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information."
+
+"Note: U.S. total excludes youth in tribal facilities."
+
+"Note: To preserve the privacy of the juvenile residents, state level cell counts have been rounded to the nearest multiple of three."
+
+"Note: The "Hispanic" category includes persons of Latin American or other Spanish culture or origin regardless of race.  These persons are not included in the other race/ethnicity categories."
+
+"Suggested citation: Sickmund, M., Sladky, T.J., Kang, W., and Puzzanchera, C. (2017) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, and 2015 [machine-readable data files]."

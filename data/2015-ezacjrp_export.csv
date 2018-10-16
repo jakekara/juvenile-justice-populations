@@ -1,0 +1,71 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Race/Ethnicity by State, 2015"
+
+
+"State of Offense","Total","White","Black","Hispanic","American Indian","Asian","Other"
+"United States","48,043","15,024","20,136","10,545","839","402","1,097",
+"Alabama","849","300","507","27","0","3","9",
+"Alaska","207","78","30","3","75","3","21",
+"Arizona","717","237","114","255","54","9","51",
+"Arkansas","555","198","315","33","0","6","3",
+"California","6,726","900","1,863","3,729","42","138","54",
+"Colorado","999","363","213","393","12","12","9",
+"Connecticut","141","33","66","36","0","0","6",
+"Delaware","162","21","129","12","0","0","3",
+"District of Columbia","105","0","102","0","0","0","0",
+"Florida","2,853","837","1,758","246","3","6","3",
+"Georgia","1,110","201","819","57","0","6","27",
+"Hawaii","51","9","0","3","0","27","15",
+"Idaho","393","276","9","90","9","6","3",
+"Illinois","1,524","324","966","210","0","3","21",
+"Indiana","1,563","834","558","102","3","3","63",
+"Iowa","675","378","198","63","12","6","15",
+"Kansas","564","258","186","105","6","3","6",
+"Kentucky","510","285","171","12","0","0","39",
+"Louisiana","831","141","666","12","6","0","6",
+"Maine","81","63","12","0","3","0","3",
+"Maryland","612","87","483","36","0","3","3",
+"Massachusetts","426","99","129","174","0","3","24",
+"Michigan","1,554","615","738","93","12","3","93",
+"Minnesota","852","321","345","60","81","18","30",
+"Mississippi","243","54","186","0","0","0","3",
+"Missouri","948","468","420","33","0","3","24",
+"Montana","171","93","21","21","27","0","9",
+"Nebraska","465","186","117","108","24","6","21",
+"Nevada","627","159","234","192","12","12","21",
+"New Hampshire","69","54","6","6","3","0","3",
+"New Jersey","636","54","456","117","3","3","3",
+"New Mexico","363","51","24","267","15","0","6",
+"New York","1,386","390","720","222","9","15","27",
+"North Carolina","468","99","315","33","9","0","12",
+"North Dakota","144","78","18","6","36","0","6",
+"Ohio","2,163","903","1,086","69","6","3","96",
+"Oklahoma","552","213","222","45","63","0","9",
+"Oregon","1,113","627","144","270","48","12","9",
+"Pennsylvania","2,826","831","1,497","393","6","12","84",
+"Rhode Island","198","63","60","63","0","6","6",
+"South Carolina","693","222","333","111","9","3","18",
+"South Dakota","228","111","9","6","90","3","6",
+"Tennessee","660","306","270","60","3","3","21",
+"Texas","4,299","906","1,476","1,872","9","12","24",
+"Utah","453","225","42","156","21","9","3",
+"Vermont","27","24","3","0","0","0","0",
+"Virginia","1,227","291","762","138","0","3","33",
+"Washington","921","396","207","186","57","18","60",
+"West Virginia","567","477","48","9","3","0","30",
+"Wisconsin","762","216","423","72","24","9","18",
+"Wyoming","177","117","12","24","21","0","3",
+"Not Reported","1,593","551","648","326","27","8","33",
+
+"Note: The information in this table is based on the state where the offense was committed. However, the state of offense is not always reported. Youth for whom state of offense was unknown are included in U.S. totals. These instances are not evenly distributed across states. As such, users should exercise caution when examining state-level trends or comparing states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information."
+
+"Note: U.S. total excludes youth in tribal facilities."
+
+"Note: To preserve the privacy of the juvenile residents, state level cell counts have been rounded to the nearest multiple of three."
+
+"Note: The "Hispanic" category includes persons of Latin American or other Spanish culture or origin regardless of race.  These persons are not included in the other race/ethnicity categories."
+
+"Suggested citation: Sickmund, M., Sladky, T.J., Kang, W., and Puzzanchera, C. (2017) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, and 2015 [machine-readable data files]."
